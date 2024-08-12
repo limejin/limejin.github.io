@@ -17,15 +17,15 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "en-US"
 title                    : "limejin-log 🍋✏️📓"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "limejin"
-description              : "Anyone can ... ❤️"
+title_separator          : "|"
+subtitle                 : "Develop, Record, Remember"
+name                     : "limejin"
+description              : #
 url                      : "https://limejin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : #
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "limejin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Anyone can ... ❤️"
-  location         : "집 또는 카페"
+  name             : "YEOJIN"
+  avatar           : "/assets/images/miffy_swimming.jpeg"
+  bio              : "Everything I need is on the ground."
+  location         : "☕"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "jinspace3710@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/limejin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

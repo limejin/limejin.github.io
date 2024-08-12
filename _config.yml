@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "limejin-log 🍋✏️📓"
 title_separator          : "|"
 subtitle                 : "Develop, Record, Remember"
-name                     : "limejin"
+name                     : "limejin"
 description              : #
 url                      : "https://limejin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
